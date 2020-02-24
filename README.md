@@ -1,7 +1,7 @@
 # pnri-projects
 Projects for Dudley lab at Pacific Northwest Research Institute
 
-The ability to automatically quantify phenotypic traits of microbial communities from images in an accurate and robust manner is crucial to advancing high-throughput genetic studies. Using tools from the python scientific stack, we have developed a flexible pipeline for extracting meaningful features from colony images.
+The ability to automatically quantify phenotypic traits of microbial communities from images in an accurate and robust manner is crucial to advancing high-throughput genetic studies. Using tools from the python scientific stack, we have developed a flexible pipeline for extracting meaningful features from plate images.
 
 ## Documents
 * [Preprint](https://arxiv.org/abs/1907.10712) (July 2019)
