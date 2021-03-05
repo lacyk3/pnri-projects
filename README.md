@@ -1,21 +1,22 @@
 # pnri-projects
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/lacyk3/pnri-projects/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/lacyk3/pnri-projects/README.md)
+![GitHub stars](https://img.shields.io/github/stars/lacyk3/pnri-projects/README.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/lacyk3/pnri-projects/README.md?style=social)
 
 Projects for Dudley lab at Pacific Northwest Research Institute
 
-The ability to automatically quantify phenotypic traits of microbial communities from images in an accurate and robust manner is crucial to advancing high-throughput genetic studies. Pypl8 is a tool that allows biologists to do extract meaningful quantitative features characterizing colony sizes, textures, invasiveness, color, and more from plate images. Using tools from the python scientific stack, we have developed a flexible, open source pipeline. 
+The ability to automatically quantify phenotypic traits of microbial communities from images in an accurate and robust manner is crucial to advancing high-throughput genetic studies. Using tools from the python scientific stack, we have developed a flexible, open source pipeline to automate the extraction of meaningful quantitative features characterizing colony sizes and textures from plate images.
 ## Directory Structure
+
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
+* You have installed the latest version of [Python 3](https://www.python.org/download/releases/3.0/)
+* You have a `<Windows>` machine. 
 * You have read `<guide/link/documentation_related_to_project>`.
 
 ## Installing <project_name>
