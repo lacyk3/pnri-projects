@@ -2,7 +2,7 @@
 
 This repository houses projects completed in collaboration with the [Dudley lab](https://www.pnri.org/research/labs/dudley-lab/) at Pacific Northwest Research Institute.
 
-[Example](fluffypics.png)
+![Patches of yeast cells display diverse phenotypes.](fluffypics.png)
 
 The ability to automatically quantify phenotypic traits of microbial communities from images in an accurate and robust manner is crucial to advancing high-throughput genetic studies. Using tools from the python scientific stack, we have developed a flexible, open source pipeline to automate the extraction of meaningful quantitative features characterizing colony size, color, morphology, and more from plate images. Check back for the release of PyPl8, a comprehensive package for utilizing these tools.
 
