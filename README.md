@@ -25,4 +25,4 @@ If you want to contact me you can reach me at <lacyk3@uw.edu>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+This project is available under the following license: [<GNU General Public License, version 2>](<http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>). 
