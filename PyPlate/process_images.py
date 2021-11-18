@@ -295,7 +295,7 @@ def ProcessBatch(sourcefolder, outputfolder,
     
     # -- Calibrate using first image
     file = image_list[0]
-    df, tiles, corners = ProcessImage(file, sourcefolder, outputfolder,
+    df, tiles, masks, corners = ProcessImage(file, sourcefolder, outputfolder,
                                      crop_method = crop_method, crop_param = None, s = s, 
                                      array_dimensions = array_dimensions,
                                      adjust = adjust, rotate = rotate, 
