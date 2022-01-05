@@ -271,8 +271,8 @@ def AutoCrop(file, sourcefolderpath, rotate = False,
     r2 = np.argwhere(dd>0)[1][0]
     
     # -- Set initial guess for grid estimating where pin points were
-    bufferr = 250 # buffer away from plate edges
-    bufferc = 175
+    bufferr = 175 # buffer away from plate edges
+    bufferc = 250
     rps = np.linspace(r1+bufferr, r2-bufferr, array_dimensions[0])
     cps = np.linspace(c1+bufferr, c2-bufferr, array_dimensions[1])
     corners = []
